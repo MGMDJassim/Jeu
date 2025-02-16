@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/jassi/Desktop/Jeu/Jeu/src/ressource/tiles/map.xml",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/jassi/Desktop/Jeu/Jeu/src/ressource/tiles/map.xml": {
+            "scale": 2.4233796296296295,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 215.81430891202598,
+                "y": 160.10698251982046
+            }
+        },
+        "Overworld.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/jassi/Desktop/Jeu/Jeu/src/ressource/tiles/gfx",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 27,
+    "openFiles": [
+        "C:/Users/jassi/Desktop/Jeu/Jeu/src/ressource/tiles/map.xml",
+        "Overworld.tsj"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "Overworld.tsj",
+        "C:/Users/jassi/Desktop/Jeu/Jeu/src/ressource/tiles/map.xml"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
